@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Davi, a full-stack JS developer</div>  
+### <div align="center">I'm Davi, a full-stack JS developer (Also do Spring Stuff)</div>  
   
 
 - I'm currently tech leading a open source project called "NewSchool"  
