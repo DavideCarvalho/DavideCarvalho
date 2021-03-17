@@ -6,16 +6,16 @@
 ### <div align="center">I'm Davi, a full-stack JS developer (Also do Spring Stuff)</div>  
   
 
-- I'm currently tech leading a open source project called "NewSchool"  
+- I'm currently tech leading and architecturing an open source project called "NewSchool"  
   
 
-- 🌱 I’m currently changing an old Laravel server to NodeJS Lambda Functions  
+- 🌱 I’m currently working on a startup idea using BlitzJS!
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JavaScript stack and related technologies  
   
 
-- ⚡ Fun fact: I use Webstorm  
+- ⚡ Fun fact: I'm really addicted to Dragon Ball FighterZ
   
 
 <br/>  
