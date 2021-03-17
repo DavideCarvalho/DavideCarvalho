@@ -91,7 +91,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DavideCarvalho&show_icons=true&count_private=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideCarvalho" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideCarvalho" align="center" /></div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavideCarvalho&theme=dracula)](https://github.com/DavideCarvalho)
 
 <br/>
   
