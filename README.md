@@ -93,7 +93,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideCarvalho" align="center" /></div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavideCarvalho&theme=dracula)](https://github.com/DavideCarvalho)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DavideCarvalho" align="center" /></div>
 
 <br/>
   
