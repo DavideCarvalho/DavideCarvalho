@@ -93,7 +93,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideCarvalho" align="center" /></div>
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DavideCarvalho" align="center" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DavideCarvalho&margin-w=15" align="center" /></div>
 
 <br/>
   
