@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Davi, a full-stack JS developer (Also do Spring Stuff)</div>  
+### <div align="center">I'm Davi, a full-stack JS developer</div>  
   
 
-- I'm currently tech leading and architecturing an open source project called "NewSchool"  
+- I'm currently tech leading at Mobly and mentoring some devs
   
 
 - 🌱 I’m currently working on a startup idea using BlitzJS!
