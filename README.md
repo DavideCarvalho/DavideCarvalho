@@ -39,6 +39,7 @@
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp.js" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### Backend  
@@ -54,6 +55,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
