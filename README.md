@@ -5,19 +5,7 @@
 
 ### <div align="center">I'm Davi, a full-stack JS developer</div>  
   
-
-- I'm currently tech leading at Mobly and mentoring some devs
-  
-
-- 🌱 I’m currently working on a startup idea using BlitzJS!
-  
-
-- ❓ Ask me about anything related to JavaScript stack and related technologies  
-  
-
-- ⚡ Fun fact: I'm really addicted to Dragon Ball FighterZ
-  
-
+My name is Davi, I'm a tech lead at Mobly and full stack JS Developer for 6 years.
 <br/>  
 
 
